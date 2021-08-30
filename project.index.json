@@ -1,0 +1,13 @@
+{
+    "name": "GitHub Upload Assistant",
+    "description": "Assistant to Upload All Projects to GitHub",
+    "created": "13/09/2021",
+    "completed": "false",
+    "modules": [
+        "os"
+    ],
+    "hosting": {
+        "hosted": "false"
+    },
+    "code": "GI-13092021-130635"
+}
